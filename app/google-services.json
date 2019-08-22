@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900968261948",
+    "firebase_url": "https://facelook-78580.firebaseio.com",
+    "project_id": "facelook-78580",
+    "storage_bucket": "facelook-78580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900968261948:android:9d9378b3caf83a3c",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900968261948-37t0de3bh2ffig0h92o4m8nhvu8pm59h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.lite.examples.detection",
+            "certificate_hash": "7250894936059ea5c026bc1ae74cca199dddd7ba"
+          }
+        },
+        {
+          "client_id": "900968261948-5vtnavqv7oa956jjm8sgfvkp4vk7dkil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6T-9yKxX_qlgIr1QjRV1GLOuuSTT1fLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900968261948-5vtnavqv7oa956jjm8sgfvkp4vk7dkil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
