@@ -4,6 +4,8 @@ The aim of this project is to build a facial recognition app that can recognize 
 
 The app would use state-of-the-art machine learning and computer vision algorithms to check for a scanned face through its database of missing persons and once verified it will connect the user to the officials and simultaneously share the GPS location of the user at the time the face-scan was performed in case of a match. The user can then also fill in additional details like the condition of the victim, nature of the people accompanying them, etc. This app would highly benefit not only the law enforcement officials but also act as a tool for citizens to report valuable details to the authorities.
 
+The app makes retrains a pre-trained [SSD MobileNet TfLite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) model for recognizing faces. The [LFW](http://vis-www.cs.umass.edu/lfw/#deepfunnel-anchor) dataset consisting of celebrities is used. About 20 images per person for 62 persons are used and the model is trained on Kaggle for around 9 hours. See presentation for more details.
+
 ## :camera: Snapshots
 
 <p align="middle">
